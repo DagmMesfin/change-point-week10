@@ -1,0 +1,26 @@
+# Core packages
+pandas
+numpy
+matplotlib
+seaborn
+
+# Time series and statistics
+statsmodels
+scipy
+
+# Bayesian modeling
+pymc3
+arviz
+
+# Date handling
+python-dateutil
+
+# Jupyter environment (optional)
+ipykernel
+
+# Web framework and dashboard (for later phase)
+flask
+flask-cors
+
+# Frontend communication (optional for dashboard integration)
+requests
